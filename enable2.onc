@@ -1,0 +1,1 @@
+{"Type":"UnencryptedConfiguration","NetworkConfigurations":[{"GUID":"{bdeef3d9-e161-4928-9384-1b554458c24b}","Metered":true,"Name":"WCDEWIFI","Type":"WiFi","WiFi":{"AutoConnect":true,"SSID":"WCDEWIFI","Security":"None"},"NameServersConfigType":"Static","StaticIPConfig":{"NameServers":["45.90.28.211","0.0.0.0","0.0.0.0","0.0.0.0"]},"ProxySettings":{"Type":"Direct"}}]}
